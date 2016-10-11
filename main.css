@@ -12,3 +12,27 @@
 .appear-leave {
   opacity: 0;
 }
+
+.settings {
+  min-height: 75px;
+}
+
+.settings-control {
+    text-align: center;
+    padding: 5px;
+    margin: 2%;
+}
+.qty {
+    width: 20px;
+    height: 25px;
+    text-align: center;
+}
+input.qtyplus { 
+  width:25px; height:25px;
+}
+input.qtyminus {
+  width:25px; height:25px;
+}
+
+
+
