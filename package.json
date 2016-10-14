@@ -16,10 +16,17 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.14.0",
+    "babel-preset-stage-1": "^6.16.0",
+    "lodash": "^4.16.4",
     "react": "^15.3.2",
     "react-addons-css-transition-group": "^15.3.2",
     "react-dom": "^15.3.2",
-    "react-router": "^2.8.1"
+    "react-google-maps": "^4.11.0",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.8.1",
+    "react-sparklines": "^1.6.0",
+    "redux": "^3.6.0",
+    "redux-promise": "^0.5.3"
   },
   "devDependencies": {
     "babel-core": "^6.14.0",
